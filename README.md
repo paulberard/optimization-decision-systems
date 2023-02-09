@@ -1,2 +1,3 @@
 # optimization-project
-SDP project
+
+Project for 'Decision Systems' course.
