@@ -1,3 +1,3 @@
-# optimization-project
+# optimization-decision-systems
 
-Project for 'Decision Systems' course.
+In this project, we tackle a personnel and planning optimization problem with multiple objective functions for the Decision Systems course at CentraleSupélec.
